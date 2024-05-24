@@ -10,7 +10,7 @@ ul{
     justify-content: space-between;
 }
 .main23 {
-    background-image: url(../Images/free1.jpg);
+    background-image: url(Images/free1.jpg);
     width: 100%;
     height: 100vh;
 }
@@ -73,3 +73,131 @@ li{
     text-transform: uppercase;
     font-weight: bold;
 }
+.nc3{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.nc4{
+    text-align: center;
+    font-weight: bold;
+}
+.nc5{
+    display: flex;
+    text-align: center;
+}
+.nc5 img{ 
+    justify-content: space-between;
+    margin-left: 100px;
+    width: 320px;
+    height: 320px;
+    font-weight: bold;
+}
+.nc6{
+    background-image: url(Images/chic.jpg);
+    width: 100%;
+    height:100vh ;
+    background-position: center;
+    background-size: cover;
+}
+.nc6 h2{
+    
+   position: absolute;
+   margin-top: 25%;
+   margin-left: 40%;
+   font-size: 40px;
+   color: white;
+}
+.nc6 button{
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 45%;
+    padding: 10px;
+
+}
+.nc7{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.nc8{
+    text-align: center;
+    font-weight: bold;
+}
+.nc9 {
+    display: flex;
+    padding-right: 30px; 
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nc9 img{
+    width: 400px;
+    height: 500px;
+    padding: 3px;
+}
+.nc9 p1{
+    color: rgb(184, 179, 179);
+}
+.nc10 button{
+    padding: 10px;
+   margin-left: 50%;
+   margin-bottom: 50px;
+}
+.nc11{
+    display: flex;
+    width: 100%;
+}
+.nc11 img{
+    width: 670px;
+    height: 700px;
+}
+.nc11 h1{
+   margin-top: 25%;
+   margin-left: 12%;
+}
+.nc12{
+    display: flex;
+    width: 100%;
+}
+.nc12 h4{
+    text-align:center ;
+
+}
+.nc12 img{
+    margin-left: 45.7%;
+    width: 670px;
+    height: 700px;
+}
+.nc13{
+    display: flex;
+    width: 100%;
+}
+.nc13 img{
+    width: 670px;
+    height: 700px;
+}
+.nc13 p{
+    text-align: center;
+}
+.nc13 .p1{
+    font-size: 18px;
+    margin-right: 60px;
+    margin-left: 60px;
+    margin-bottom: 300px;
+    color: rgb(179, 168, 168);
+}
+.nc13 .p2 button{
+    margin-left: 48%;
+    padding: 15px;
+    background-color: rgb(49, 41, 31);
+    color: rgb(225, 236, 236);
+}
+.nc14{
+    background-color: black;
+    width: 100%;
+    height: 50%;
+}
+
+
+
