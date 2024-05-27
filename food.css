@@ -1,0 +1,241 @@
+.main{
+  text-align: center;
+  margin-top: 8%;  
+  font-size: 60px; 
+  font-weight: bold; 
+}
+.nc1{
+    text-align: center;
+    color: rgb(129, 114, 114);
+    font-size: 25px;
+}
+* {
+    margin: 0;padding: 0;
+    place-items: center;
+    align-items: center;
+}
+.nc3 {
+    width: 100%;
+    height: 100vh;
+}
+.nc3 img {
+    margin-top: 50px;
+    width: 100%;
+    height: 100%;
+}
+.nc3 .nc4 {
+    position: absolute;
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px 0px 0px 0px;
+    margin-top: -200px;
+    margin-left: 100px;
+    width: 300px;
+    height: 120px;
+    font-size: 25px;
+    font-weight: bold;
+   
+}
+.nc3 .nc4 button{
+    height: 40px;
+    width: 150px;
+    margin-top: 20px;
+    background-color: rgb(230, 171, 181);
+    border: none;
+    padding: 5px;
+    font-weight: bold;
+}
+.nc5{
+    margin-top: 7%;
+    text-align: center;
+}
+.nc5 h4{
+     color: rgb(216, 47, 47);
+}
+.nc5 p{
+    font-weight: bold;
+    font-size: 50px;
+}
+.nc6{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+}
+.nc7 {
+    display: flex;
+}
+.nc8 {
+    display: flex;
+    width: 100%;
+    height: 80%;
+    background-color: aliceblue;
+}
+.nc8 .nc81 {
+    /* position: absolute; */
+    height: 200px;
+    width: 130%;
+    border: 2px solid rgb(124, 112, 112);
+    background-color: aliceblue;
+    transition: all 0.5s ease;
+} 
+.nc8 .nc81:hover{
+    transform: translateX(-20px);
+    background-image: url(Images/birya.jpg);
+}
+.nc8 .nc82{
+    background-image: url(Images/piz.jpg);
+}
+.nc8 .nc83{
+    background-image: url(Images/lun.jpg);
+}
+.nc8 .nc84{
+    background-image: url(Images/frui.jpg);
+}
+.nc9 h4{
+    margin-top: 100px;
+text-align: center;
+color: red;
+margin-top: 80px;
+}
+.nc9 p{
+
+    text-align: center;
+    font-size: 55px;
+    font-weight: bold;
+    
+}
+.nc10{
+   display: flex;
+   justify-content: space-evenly;
+   
+}
+.nc10 img{
+    height: 300px;
+    width: 400px;
+}
+.nc11{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 100px;
+    font-size: 30px;
+    font-weight: bold;   
+}
+.nc12{
+    display: flex;
+    font-size: 20px;
+    margin-top: 10px;
+    color: rgb(153, 140, 140);
+}
+.nc13{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.nc13 .pc1{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(221, 139, 17);
+    margin-left: 20px;
+}.nc13 .pc2{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(221, 139, 17);
+}
+.nc13 .pc3{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(221, 139, 17);
+    margin-right: 40px;
+}
+.nc14{
+    margin-top: 50px;
+    text-align: center;
+}
+.nc15{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 330px;
+    margin-right: 330px;
+    font-size: 50px;
+}
+.nc16{
+    margin-top: 35px;
+    text-align: center;
+    color: red;
+}
+.nc17{
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+}
+.nc18{
+    display: flex;
+    margin-top: 30px;
+    height: 700px;
+    width: 100%;
+    
+}
+.nc19{
+    width: 50%;
+    height: 750px;
+    float: left;
+    background-image: url(Images/dhoni.jpg);
+    background-position: center;
+    background-size: cover;
+   margin-top: 20px;
+}.nc20{
+width: 50%;
+height: 750px;
+float: right;
+background-color: pink;
+}.nc20 p{
+    
+    padding: 28px;
+    margin-top: 80px;
+    font-size: 45px;
+    font-weight: bold;
+}.nc20 .p11 {
+    font-size: 20px;
+    margin-top: -5px;
+}
+.nc20 .pc{
+    margin-top: 10%;
+    display: flex;
+    padding: 20px;
+   
+}
+.nc20 .pc .h21{
+    font-size: 18px;
+    height: 200px;
+    padding: 20px;
+    width: 200px;
+    background-color: aliceblue;
+}
+.nc20 .pc .h22{
+   
+    font-size: 18px;
+    padding:20px;
+    height: 200px;
+    width: 250px;
+    background-color: aliceblue;
+    margin-left: 80px;
+   
+}.nc20 .pc .h21 .sp{
+    font-size: 50px;
+    margin-top: 30px;
+}
+.nc20 .pc .h22 .sp1{
+    font-size: 50px;
+}
+.nc20 button{
+    color: aliceblue;
+    margin-left: 22px;
+    padding: 12px;
+    background-color: black;
+}
