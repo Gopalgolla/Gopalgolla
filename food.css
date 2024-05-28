@@ -176,7 +176,6 @@ margin-top: 80px;
 }
 .nc18{
     display: flex;
-    margin-top: 30px;
     height: 700px;
     width: 100%;
     
@@ -189,18 +188,21 @@ margin-top: 80px;
     background-position: center;
     background-size: cover;
    margin-top: 20px;
-}.nc20{
+}
+.nc20{
 width: 50%;
 height: 750px;
 float: right;
 background-color: pink;
-}.nc20 p{
+}
+.nc20 p{
     
     padding: 28px;
     margin-top: 80px;
     font-size: 45px;
     font-weight: bold;
-}.nc20 .p11 {
+}
+.nc20 .p11 {
     font-size: 20px;
     margin-top: -5px;
 }
@@ -239,3 +241,130 @@ background-color: pink;
     padding: 12px;
     background-color: black;
 }
+.nc21{
+text-align: center;
+margin-top: 100px;
+color: red;
+}
+.nc22{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 65px;
+    font-weight: bold;
+}
+.nc23{
+    margin-top: 20px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   margin-left: 60px;
+   margin-right: 60px;
+   
+}
+.nc23 img{
+    width: 350px;
+    height: 300px;
+}
+.nc24
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 120px;
+    margin-right: 80px;
+    font-size: 20px;
+
+}
+.nc25{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 120px;
+    margin-right: 80px;
+    color: rgb(141, 129, 129);
+}
+.nc26{
+    margin-top: 40px;
+    height: 700px;
+    width: 100%;
+  background-color: rgb(199, 64, 64);
+}
+.nc27{
+    width: 50%;
+    height: 700px;
+    float: left;
+    background-image: url(Images/fd6.jpg);
+    background-position: center;
+    background-size: cover;
+
+    
+}
+.nc28{
+    width: 50%;
+    height: 700px;
+    float: right;
+    background-color: black;
+    color: white;
+}
+.nc28 p{
+   margin-left: 65px;
+   margin-top: 100px;
+   font-size: 40px;
+}
+.nc28 .p1{
+    margin-left: 65px;
+   margin-top: 55px;
+   font-size: 25px;
+}
+.nc28 .p2  button{
+    padding: 13px;
+    margin-left: 15px;
+}
+.nc29{
+    margin-top: 30px;
+    text-align: center;
+    color: red;
+}
+.nc30{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+.nc31{
+    margin-top: 40px;
+    margin-left: 330px;
+}
+.container{
+            background-color: rgb(104, 42, 161);
+            width: 500px;
+            height: 400px;
+            padding: 20px;
+            margin:auto;
+            margin-top: 10px;
+        }
+        input[type=text], input[type=password]{
+            width: 100%;
+            padding: 10px 15px;
+            box-sizing: border-box;
+            margin: 8px 0;
+            
+        }
+        button{
+            background-color: rgb(43, 54, 43);
+            color: white;  
+        }
+        .nc23{
+            width: 100%;
+            height: 800px;
+            background-color:rgb(221, 204, 204);
+            display: flex;
+            justify-content: space-between;
+            padding-right: 50px;
+           list-style: none;
+        }
+        .nc23 img{
+            margin-top: -10%;
+        }
+       
+        
