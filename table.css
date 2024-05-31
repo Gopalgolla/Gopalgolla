@@ -1,0 +1,34 @@
+*{
+    padding: 10px;
+    margin: 0;
+}
+.main{
+    width: 100%;
+    display: flex;
+}
+.dash p{
+    margin-top: -13px;
+}
+.btn button{
+ margin-left: 910px;
+ background-color: brown;
+ color: aliceblue;
+ border-radius: 25px;
+}
+table
+{
+    width: 100%;
+} 
+tr th{
+    background-color: rgb(187, 187, 159);
+}
+ tr td{
+    background-color: bisque;
+}
+.tb3 tr td{
+    background-color: blueviolet;
+}
+.f1{
+    font-size: 17px;
+    font-weight: bold;
+}
